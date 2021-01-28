@@ -1,0 +1,5 @@
+Pyrogram
+pytube
+requests
+configparser
+sqlite3
